@@ -175,7 +175,7 @@ Additional ideas worth exploring:
 - Live dashboard demo: `<add link>`
 - Presentation slides: `Smart_Worker_Safety_Project.pptx`
 - Related datasheets:
-  - MQ2 Gas Sensor: `[<add datasheet link>](https://www.pololu.com/file/0j309/mq2.pdf)`
+  - MQ2 Gas Sensor: `[<[add datasheet link](https://www.pololu.com/file/0j309/mq2.pdf)>]`
   - MPU6050: `[<add datasheet link>](https://cdn.sparkfun.com/datasheets/Sensors/Accelerometers/RM-MPU-6000A.pdf)`
   - DHT22: `[<add datasheet link>](https://cdn.sparkfun.com/assets/f/7/d/9/c/DHT22.pdf)`
   - ESP32-S3: `[<add datasheet link>](https://cdn.sparkfun.com/datasheets/IoT/esp32_datasheet_en.pdf)`
