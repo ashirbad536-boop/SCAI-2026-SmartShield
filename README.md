@@ -182,7 +182,7 @@ Additional ideas worth exploring:
 
 ## 11. Team
 
-- ** Smart Worker Safety & Environmental Hazard Monitoring System** — Team Project, 2026
+- Smart Worker Safety & Environmental Hazard Monitoring System — Team Project, 2026
 - IEEE · Smart Sensing & Intelligent Electronic Systems
 
 ---
