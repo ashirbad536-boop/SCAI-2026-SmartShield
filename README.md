@@ -168,17 +168,15 @@ Additional ideas worth exploring:
 
 ## 10. Tools & References
 
-> Add your actual repository, demo, and documentation links below.
-
 - Project repository: `<add GitHub/GitLab link>`
 - Simulation environment (Cirkit Designer): `[<add link>](https://app.cirkitdesigner.com/)`
-- Live dashboard demo: `<add link>`
-- Presentation slides: `Smart_Worker_Safety_Project.pptx`
+- Live dashboard demo: ``
+- Presentation slides: ``
 - Related datasheets:
-  - MQ2 Gas Sensor: `[<[add datasheet link](https://www.pololu.com/file/0j309/mq2.pdf)>]`
-  - MPU6050: `[<add datasheet link>](https://cdn.sparkfun.com/datasheets/Sensors/Accelerometers/RM-MPU-6000A.pdf)`
-  - DHT22: `[<add datasheet link>](https://cdn.sparkfun.com/assets/f/7/d/9/c/DHT22.pdf)`
-  - ESP32-S3: `[<add datasheet link>](https://cdn.sparkfun.com/datasheets/IoT/esp32_datasheet_en.pdf)`
+  - MQ2 Gas Sensor: `https://www.pololu.com/file/0j309/mq2.pdf`
+  - MPU6050: `(https://cdn.sparkfun.com/datasheets/Sensors/Accelerometers/RM-MPU-6000A.pdf`
+  - DHT22: `https://cdn.sparkfun.com/assets/f/7/d/9/c/DHT22.pdf`
+  - ESP32-S3: `https://cdn.sparkfun.com/datasheets/IoT/esp32_datasheet_en.pdf`
 
 ---
 
